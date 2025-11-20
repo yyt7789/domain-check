@@ -5,7 +5,7 @@ keep_vars = true
 
 [[kv_namespaces]]
 binding = "DOMAIN_KV" 
-id = "2343189200c54503a06b60e2c1c0aad1" # 替换成你实际的 KV ID
+id = "e38d6af9f6bb4e2d8aa2866c6c9da923" # 替换成你实际的 KV ID
 
 [triggers]
 crons = ["0 1,13 * * *"] # 北京时间 9:00 和 21:00
